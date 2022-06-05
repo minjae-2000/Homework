@@ -9,6 +9,8 @@
                    >> 이를 통하여 리눅스를 사용하는 디바이스의 성능이나 리눅스 서버의 성능을 체크할 때 매우 유용합니다.
 
 
-  >><img src="https://user-images.githubusercontent.com/80958395/172034056-07b2679c-f21f-4e9e-8619-38281783cf69.PNG"  width="800" height="400"/>
+  >> <p align="center"> <img src="https://user-images.githubusercontent.com/80958395/172034056-07b2679c-f21f-4e9e-8619-38281783cf69.PNG"  alt="top 명령어 실행 시"  width="600" height="300"/>
+  
+  <p align="center"> top 명령어 실행 결과
                                                                                                                                          
-                                                                                                                                                                           
+  >> ### 1-2) 구성                                                                                                                                                         
